@@ -29,5 +29,11 @@ body {
     background-color: aqua;
     border:none;
     color: #FFFFFF;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    fo
+    curso:pointer;
 
 }
