@@ -24,3 +24,10 @@ body {
 .container {
     height: 100vh;
 }
+
+.botao{
+    background-color: aqua;
+    border:none;
+    color: #FFFFFF;
+
+}
